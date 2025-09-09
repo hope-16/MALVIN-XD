@@ -1,5 +1,5 @@
 {
-  "name": "ᴍᴀʟᴠɪɴ-xᴅ",
+  "name": "reagan",
   "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
   "logo": "https://files.catbox.moe/qumhu4.jpg",
   "keywords": ["MALVIN XD"],
@@ -9,14 +9,14 @@
   "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
-        "value":"",
+        "value":"malvin~xmFlyRyB#lSC8xo9ayMQAu-mEvFWuALIMhTQXes3q73tIDxXcyjM",
         "required": true
         
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ xᴅ" 
+        "value": "reagan" 
         
     },
      "PREFIX": {
@@ -40,13 +40,13 @@
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "256747244950"
       "required": true
       
    },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "reagan",
       "required": true
     }
 
