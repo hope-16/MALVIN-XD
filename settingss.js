@@ -1,10 +1,10 @@
 
 module.exports = {
-  SESSION_ID: "",  // add your Session Id here
+  SESSION_ID: "malvin~xmFlyRyB#lSC8xo9ayMQAu-mEvFWuALIMhTQXes3q73tIDxXcyjM",  // add your Session Id here
   
-  OWNER_NUMBER: "263714757857", // put your phone number here
+  OWNER_NUMBER: "256747244950", // put your phone number here
   
   PREFIX: ".", // prefix (e.g., ., /, !, *)
   
-  TIMEZONE: "Africa/Harare" //put your country timeZone....leave blank if u don't know.
+  TIMEZONE: "East African Time" //put your country timeZone....leave blank if u don't know.
 };
