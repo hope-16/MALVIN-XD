@@ -54,9 +54,9 @@
 
      "buildpacks": [
         {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+            "url": "https://dashboard.render.com/"
         }
      ],
-  "stack": "heroku-24"
+  "stack": "render"
 }
   
